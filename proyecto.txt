@@ -1,0 +1,2 @@
+Descripcion del Proyecto: El proyecto es un sistema que se encargara de ayudar a los estudiantes a generar informes basicos en formato APA7 segun el tema que coloquen en el input, 
+trabajara con los agentes de IA como Ollama3 y Gemini.
